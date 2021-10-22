@@ -22,6 +22,7 @@ namespace downloadPresentations
     /// </summary>
     public partial class MainWindow : Window
     {
+        string url = "";
         public MainWindow()
         {
             InitializeComponent();
